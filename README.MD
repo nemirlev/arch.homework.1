@@ -2,7 +2,7 @@
 
 Тестирование: 
 
-Адрес сервиса: http://arch.homework/otusapp/{student name}/health
+Адрес сервиса: http://arch.homework/otusapp/lev/health
 
 Запуск:
 ` kubectl apply -f .`
